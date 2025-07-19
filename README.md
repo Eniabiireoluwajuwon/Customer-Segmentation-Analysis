@@ -1,13 +1,13 @@
 # Customer-Segmentation-Analysis
-## Overview / Introduction
+## Ove
 
 This project focuses on the analysis of customer behaviour for an online retail dataset. The goal is to segment customers into distinct groups based on their purchasing patterns using machine learning algorithms. The analysis employs K-Means clustering and Principal Component Analysis (PCA) to identify customer segments, enabling targeted marketing, personalized recommendations, and efficient resource allocation.
 
-## Motivation or Problem Statement
+## Problem Statement
 
 In e-commerce, understanding the different types of customers is critical for designing effective marketing strategies and improving customer retention. This project addresses the challenge of identifying meaningful customer segments from transactional data, which can then be used to enhance customer engagement and drive business growth.
 
-## Key Features or Capabilities
+## Key Features
 
 - **Customer Segmentation**: Group customers into segments based on their buying behaviour.
 - **Exploratory Data Analysis (EDA)**: Visualize distributions, correlations, and interactions between customer features.
